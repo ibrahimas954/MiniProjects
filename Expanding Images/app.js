@@ -24,3 +24,6 @@ for(let i = 0; i < imgContainers.length; i++){
   
   });
 }
+
+let s = true;
+console.log(parseInt(s));
